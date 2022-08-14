@@ -1,0 +1,2 @@
+### PROBLEMA Y SOLUCIÓN BUSCADA
+El contexto: Los datos son una muestra sintetica de supply chain en el cual tienes la cantidad de ventas realizadas en el tiempo de dos articulos, el objetivo de este problema es que seas capas de predecir la demanda de estos articulos en las fechas que son señaladas como test. Para ello, se espera que puedas realizar modelos de series de tiempo sobre estos articulos. Este es un problema muy común en  muchas industrias (retail, manufactura, transporte, energía, etc), por lo que en tu día a día estarás enfrentado a este tipo de problemas.
